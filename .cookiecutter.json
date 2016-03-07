@@ -1,0 +1,11 @@
+{
+    "library_name": "topology_lib_nslookup",
+    "author": "Hewlett Packard Enterprise Development LP",
+    "email": "hpe-networking@lists.hp.com",
+    "repo_url": "https://github.com/jcch-hpe/topology_lib_nslookup.git",
+    "doc_url": "https://github.com/jcch-hpe/topology_lib_nslookup.git/tree/master/doc",
+    "project_name": "nslookup Communication Library for Topology",
+    "short_description": "This library repository contains the corresponding functions and commands to implement `nslookup` in a linux workstation.",
+    "year": "2016",
+    "version": "0.1.0"
+}
